@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>intl-tel-input</artifactId>
-    <version>7.1.0</version>
+    <version>7.1.0-SNAPSHOT</version>
     <name>intl-tel-input</name>
     <description>WebJar for intl-tel-input</description>
     <url>http://webjars.org</url>
